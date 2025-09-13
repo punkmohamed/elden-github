@@ -25,3 +25,6 @@ dist-ssr
 
 dist.crx
 dist.pem
+dist.zip
+
+config.bat
